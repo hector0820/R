@@ -1,0 +1,5 @@
+R_HOME_USER = ${HOME}/Documents/Coding/Rscripts
+R_USER = ${HOME}/Documents/Coding/Rscripts
+R_PROFILE_USER = ${HOME}/Documents/Coding/Rscripts/Rprofile
+R_LIBS_USER = ${HOME}/Documents/Coding/Rscripts/Library
+R_HISTFILE = ${HOME}/Documents/Coding/Rscripts/R.Rhistory
